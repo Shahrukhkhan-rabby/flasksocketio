@@ -33,7 +33,7 @@ A real-time anonymous chat app built using **Flask**, **Flask-SocketIO**, and **
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/lovnishverma/flasksocketio.git
+git clone https://github.com/Shahrukhkhan-rabby/flasksocketio
 cd flasksocketio
 ```
 
